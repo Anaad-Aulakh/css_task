@@ -1,0 +1,57 @@
+body{
+    background-color: skyblue;
+}
+
+h1{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.firstp{
+    background-color: yellow;
+}
+
+h2{
+    color: blueviolet;
+}
+
+div{
+    background-color: blue;
+    border-style: dashed;
+    border-color: yellow;
+}
+
+.signin{
+    border-color: red;
+    border-style: solid;
+}
+
+.purp{
+    color: purple   ;
+}
+
+.spectrum{
+    border-style: none;
+}
+
+.one{
+    background-color: rgba(22, 22, 255, 0.714);
+    border-style: none;
+}
+
+.two{
+    border-style: none;
+}
+
+.three{
+    border-style: none;
+}
+
+.four{
+    border-style: none;
+}
+
+.five{
+    border-style: none;
+}
